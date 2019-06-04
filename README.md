@@ -2,27 +2,17 @@
 
 README file for Random walks and probability flux in non-equilibrium systems prepared for Spring School 2017 
 
-Author
-------
-  Arvind Ravichandran
-
-Contact
+Authors
 -------
-  a.ravichandran@fz-juelich.de
 
-Affiliation
------------
-  Graduate Student in Theoretical Soft Matter and Biophysics
-  Institute of Complex Systems and Institute for Advanced Simulation, 
-  Forschungszentrum Juelich, Germany
+Sebastian Rode and Lucas Campos, based on the original idea from Arvind Ravichandran
 
 What is it?
 -----------
   
-  This contains Python scripts to simulate illustrate concepts of non-equilibrium
-  for the Spring School 2017/2018 course at ICS II. In this course, conducted as
-  a workshop, there are three instances of equilibrium and non-equilibrium 
-  systems. 
+  This contains Python scripts to simulate illustrate concepts of
+  non-equilibrium. In this course, conducted as a workshop, there are three
+  instances of equilibrium and non-equilibrium systems. 
   
 Tasks
 -----
@@ -49,12 +39,8 @@ Tasks
   - Problems
 		This contains the problems, with comments for students to complete to get the systems up and running.
   - Solutions
-		Contains the solutions to the problems, with the completed code running. There are Cython optimizations,
-		which students are not required to learn. They are implemented for quickly running an ensemble of coupled
+		Contains the solutions to the problems, with the completed code running. 
 		oscillators serially for Task 3. 
   - docs
 		Contains the pdf document for the teaching of random walk, diffusion, non-equilibrium, 
 		probability flux analysis, and an in-depth perspective on introductory Python.
-
-This project was conducted under the guidance of my PhD advisors, Gerrit Vliegenthart, Thorsten Auth, and with helpful discussions with Ewan Henry. In case of questions, comments, please contact me (Arvind).
-
