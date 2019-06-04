@@ -1,6 +1,6 @@
 # non-equilibrium
 
-README file for Random walks and probability flux in non-equilibrium systems prepared for Spring School 2017 
+README file for Random walks and probability flux in non-equilibrium systems
 
 Authors
 -------
